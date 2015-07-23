@@ -20,4 +20,5 @@ branches:
 os:
   - linux
   - osx
+  - windows
 script: npm test
